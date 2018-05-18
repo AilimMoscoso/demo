@@ -1,4 +1,4 @@
-___### Labor@trivia___
+___ Labor@trivia___
 - - -
 _Labor@trivia es un juego que consiste en una serie de preguntas que probarán tu conocimiento acerca de diversos temas, a medida que vayas contestando correctamente podrás subir o bajar de nivel, además podrás escoger diversos temas para contestar._
 - - -
